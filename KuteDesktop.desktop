@@ -1,0 +1,8 @@
+#!/usr/local/bin/KrypZero/ xdg-open
+[Desktop Entry]
+Name=Kute-Desktop
+Comment=
+Exec=/usr/local/bin/KrypZero/Kute-Desktop.sh
+TryExec=/usr/local/bin/KrypZero/Kute-Desktop.sh
+Icon=openbox
+Type=Application
